@@ -1,4 +1,4 @@
-# Instructions on getting ProgrammingAss1 to compile
+# Instructions on getting ProgrammingAss2 to compile
 > First unzip the folder and head to the ProgrammingAss2 folder
 >
 > In case this needs to be done put in the command prompt: gcc ASS2.c -o ASS2 so that the code is compiled
